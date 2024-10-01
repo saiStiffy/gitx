@@ -11,6 +11,7 @@ public class AccountTest {
 		Account ac=new Account();
 		ac.setname(na);
 		System.out.println(ac.getname());
+		System.out.println("saikiran");
 
 	}
 
